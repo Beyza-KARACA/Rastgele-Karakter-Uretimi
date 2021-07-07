@@ -1,0 +1,1 @@
+# Rastgele-Karakter-Uretimi
